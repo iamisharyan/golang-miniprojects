@@ -35,7 +35,7 @@ I **learn by building real implementations** and solving problems.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,mysql,git,github,mongodb,postgresql,react,slack,react" />
+  <img src="https://skillicons.dev/icons?i=go,mysql,git,github,mongodb,postgresql,postman,react" />
 </p>
 
 ---
