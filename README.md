@@ -3,13 +3,8 @@
 
 # 🚀 Golang Mini Projects
 
-<a href="https://github.com/iamisharyan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Backend+with+Go;Learning+by+Doing+Projects;REST+APIs+%7C+GORM+%7C+MySQL;Future+Backend+Engineer" />
-</a>
 
----
 
-### ⚡ Learn • Build • Repeat
 
 </div>
 
@@ -35,30 +30,12 @@ I **learn by building real implementations** and solving problems.
 
 ---
 
-## 🧠 Philosophy
 
-✨ Learn by building  
-⚡ Focus on real-world backend logic  
-🧩 Keep code simple & clean  
-
----
-
-## 📂 Projects
-
-| 🚀 Project | 📖 Description |
-|-----------|--------------|
-| **CRUD-API** | REST API with full CRUD operations |
-| **emailverifier** | Email validation tool |
-| **go-server** | Basic HTTP server |
-| **gocrudmdb** | CRUD with database integration |
-| **gostore** | Store backend system |
-
----
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=go,mysql,git,github,mongodb,postgresql,react,slack,react" />
 </p>
 
 ---
